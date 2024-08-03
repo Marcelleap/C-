@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marce\\OneDrive\\Documentos\\GitHub\\C-\\ProjetoI\\MeuProjetoDotNet.csproj": {}
+    "C:\\Users\\marce\\OneDrive\\Documentos\\GitHub\\C-\\ProjetoII\\ProjetoII.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marce\\OneDrive\\Documentos\\GitHub\\C-\\ProjetoI\\MeuProjetoDotNet.csproj": {
+    "C:\\Users\\marce\\OneDrive\\Documentos\\GitHub\\C-\\ProjetoII\\ProjetoII.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marce\\OneDrive\\Documentos\\GitHub\\C-\\ProjetoI\\MeuProjetoDotNet.csproj",
-        "projectName": "MeuProjetoDotNet",
-        "projectPath": "C:\\Users\\marce\\OneDrive\\Documentos\\GitHub\\C-\\ProjetoI\\MeuProjetoDotNet.csproj",
+        "projectUniqueName": "C:\\Users\\marce\\OneDrive\\Documentos\\GitHub\\C-\\ProjetoII\\ProjetoII.csproj",
+        "projectName": "ProjetoII",
+        "projectPath": "C:\\Users\\marce\\OneDrive\\Documentos\\GitHub\\C-\\ProjetoII\\ProjetoII.csproj",
         "packagesPath": "C:\\Users\\marce\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marce\\OneDrive\\Documentos\\GitHub\\C-\\ProjetoI\\obj\\",
+        "outputPath": "C:\\Users\\marce\\OneDrive\\Documentos\\GitHub\\C-\\ProjetoII\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\marce\\AppData\\Roaming\\NuGet\\NuGet.Config"

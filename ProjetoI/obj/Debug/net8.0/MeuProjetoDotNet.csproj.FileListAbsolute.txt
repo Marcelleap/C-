@@ -1,0 +1,15 @@
+C:\Users\marce\OneDrive\Documentos\GitHub\C-\ProjetoI\bin\Debug\net8.0\MeuProjetoDotNet.exe
+C:\Users\marce\OneDrive\Documentos\GitHub\C-\ProjetoI\bin\Debug\net8.0\MeuProjetoDotNet.deps.json
+C:\Users\marce\OneDrive\Documentos\GitHub\C-\ProjetoI\bin\Debug\net8.0\MeuProjetoDotNet.runtimeconfig.json
+C:\Users\marce\OneDrive\Documentos\GitHub\C-\ProjetoI\bin\Debug\net8.0\MeuProjetoDotNet.dll
+C:\Users\marce\OneDrive\Documentos\GitHub\C-\ProjetoI\bin\Debug\net8.0\MeuProjetoDotNet.pdb
+C:\Users\marce\OneDrive\Documentos\GitHub\C-\ProjetoI\obj\Debug\net8.0\MeuProjetoDotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\OneDrive\Documentos\GitHub\C-\ProjetoI\obj\Debug\net8.0\MeuProjetoDotNet.AssemblyInfoInputs.cache
+C:\Users\marce\OneDrive\Documentos\GitHub\C-\ProjetoI\obj\Debug\net8.0\MeuProjetoDotNet.AssemblyInfo.cs
+C:\Users\marce\OneDrive\Documentos\GitHub\C-\ProjetoI\obj\Debug\net8.0\MeuProjetoDotNet.csproj.CoreCompileInputs.cache
+C:\Users\marce\OneDrive\Documentos\GitHub\C-\ProjetoI\obj\Debug\net8.0\MeuProjetoDotNet.sourcelink.json
+C:\Users\marce\OneDrive\Documentos\GitHub\C-\ProjetoI\obj\Debug\net8.0\MeuProjetoDotNet.dll
+C:\Users\marce\OneDrive\Documentos\GitHub\C-\ProjetoI\obj\Debug\net8.0\refint\MeuProjetoDotNet.dll
+C:\Users\marce\OneDrive\Documentos\GitHub\C-\ProjetoI\obj\Debug\net8.0\MeuProjetoDotNet.pdb
+C:\Users\marce\OneDrive\Documentos\GitHub\C-\ProjetoI\obj\Debug\net8.0\MeuProjetoDotNet.genruntimeconfig.cache
+C:\Users\marce\OneDrive\Documentos\GitHub\C-\ProjetoI\obj\Debug\net8.0\ref\MeuProjetoDotNet.dll
