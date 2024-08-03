@@ -1,0 +1,15 @@
+C:\Users\marce\OneDrive\Documentos\GitHub\C-\ProjetoII\bin\Debug\net8.0\ProjetoII.exe
+C:\Users\marce\OneDrive\Documentos\GitHub\C-\ProjetoII\bin\Debug\net8.0\ProjetoII.deps.json
+C:\Users\marce\OneDrive\Documentos\GitHub\C-\ProjetoII\bin\Debug\net8.0\ProjetoII.runtimeconfig.json
+C:\Users\marce\OneDrive\Documentos\GitHub\C-\ProjetoII\bin\Debug\net8.0\ProjetoII.dll
+C:\Users\marce\OneDrive\Documentos\GitHub\C-\ProjetoII\bin\Debug\net8.0\ProjetoII.pdb
+C:\Users\marce\OneDrive\Documentos\GitHub\C-\ProjetoII\obj\Debug\net8.0\ProjetoII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\OneDrive\Documentos\GitHub\C-\ProjetoII\obj\Debug\net8.0\ProjetoII.AssemblyInfoInputs.cache
+C:\Users\marce\OneDrive\Documentos\GitHub\C-\ProjetoII\obj\Debug\net8.0\ProjetoII.AssemblyInfo.cs
+C:\Users\marce\OneDrive\Documentos\GitHub\C-\ProjetoII\obj\Debug\net8.0\ProjetoII.csproj.CoreCompileInputs.cache
+C:\Users\marce\OneDrive\Documentos\GitHub\C-\ProjetoII\obj\Debug\net8.0\ProjetoII.sourcelink.json
+C:\Users\marce\OneDrive\Documentos\GitHub\C-\ProjetoII\obj\Debug\net8.0\ProjetoII.dll
+C:\Users\marce\OneDrive\Documentos\GitHub\C-\ProjetoII\obj\Debug\net8.0\refint\ProjetoII.dll
+C:\Users\marce\OneDrive\Documentos\GitHub\C-\ProjetoII\obj\Debug\net8.0\ProjetoII.pdb
+C:\Users\marce\OneDrive\Documentos\GitHub\C-\ProjetoII\obj\Debug\net8.0\ProjetoII.genruntimeconfig.cache
+C:\Users\marce\OneDrive\Documentos\GitHub\C-\ProjetoII\obj\Debug\net8.0\ref\ProjetoII.dll
